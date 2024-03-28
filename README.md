@@ -7,6 +7,8 @@
  - Creating & Hosting database on Google Cloud SQL
 
 ## Dashboard 1
-![Dashboard 1](images/Dashboard_1_Order_Activity.png)
+![Dashboard 1 - Order Activity](images/Dashboard_1_Order_Activity.png)
 
+## Dashboard 2
+![Dashboard 2 - Revenue](images/Dashboard_2_Revenue.png)
 
