@@ -1,5 +1,6 @@
 CREATE VIEW `Sales_v1` AS
 
+-- Nested query to allow selection of aggregated data QUANTITY_SOLD
 SELECT
 s1.YEAR_ID,
 s1.MONTH_ID,

@@ -1,6 +1,5 @@
 use sales_data;
 
-
 SELECT 
 CUSTOMERNAME,
 RECENCY,
@@ -10,6 +9,9 @@ SEGMENTED_RECENCY,
 SEGMENTED_FREQUENCY,
 SEGMENTED_MONETARY,
 SEGMENTED_FM,
+-- Perform customer segmentation through values from FRM values
+-- Taken from Peel(2023)
+-- https://www.peelinsights.com/post/what-is-rfm-analysis
 CASE
 	WHEN SEGMENTED_FM = 5 AND SEGMENTED_RECENCY IN (1,2) THEN "Can\'t Lose Them"
     WHEN SEGMENTED_FM IN (5,4) AND SEGMENTED_RECENCY IN (3,4) THEN 'Loyal Customers'
