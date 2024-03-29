@@ -18,5 +18,5 @@
 
 # References
 - Peel, JA. (2023). What is RFM analysis?. Peel Insights. https://www.peelinsights.com/post/what-is-rfm-analysis
-- Finer, A. (2023) Data Analyst Portfolio Project - SQL | Step-by-Step Guide From SQL Database to Interactive Dashboard. YouTube. https://youtu.be/0rB_memC-dA?feature=shared
+- Finer, A. (2023). Data Analyst Portfolio Project - SQL | Step-by-Step Guide From SQL Database to Interactive Dashboard. YouTube. https://youtu.be/0rB_memC-dA?feature=shared
 
